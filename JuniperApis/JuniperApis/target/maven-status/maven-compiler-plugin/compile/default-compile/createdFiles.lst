@@ -1,0 +1,4 @@
+com\juniper\stater\JuniperApisApplication.class
+com\juniper\stater\controller\JuniperController.class
+com\juniper\stater\model\NomineeEntity.class
+com\juniper\stater\repo\JuniperRepository.class
